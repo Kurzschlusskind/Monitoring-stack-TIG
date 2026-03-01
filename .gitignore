@@ -1,0 +1,8 @@
+influxdb-data/
+grafana-data/
+.env
+*.log
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
